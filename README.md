@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack & DevOps Engineer`**
 
-Me chamo Lucas Rodrigues, tenho 19 anos e sou natural de Minas Gerais. Atualmente curso Sistemas de Informação na UFLA. Sou apaixonado por tecnologia, construindo soluções completas — do frontend ao deploy — com foco em qualidade, automação e boas práticas de engenharia.
+Me chamo Lucas Rodrigues, tenho 19 anos. Estou cursando Sistemas de Informação na UFLA. Sou apaixonado por tecnologia, construindo soluções completas — do frontend ao deploy — com foco em qualidade, automação e boas práticas de engenharia.
 
 <p align="left">
     <a href="https://github.com/lucasrodrigues?tab=stars">
