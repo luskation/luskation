@@ -27,11 +27,19 @@ Mais projetos — de pipeline DevSecOps na AWS a plugin de áudio em C++ — nos
 
 ## 🧰 Tecnologias
 
-**Backend** — Go, Python, Java, Node.js, PostgreSQL
+**Backend**
 
-**Frontend** — TypeScript, JavaScript, React, HTML/CSS
+<a href="#"><img src="https://skillicons.dev/icons?i=go,py,java,nodejs,php,postgres,mysql" alt="Go, Python, Java, Node.js, PHP, PostgreSQL, MySQL" height="42"/></a>
 
-**Segurança & DevOps** — Docker, Kubernetes, Terraform, AWS, GitHub Actions, ELK, OWASP ZAP, Trivy, Semgrep
+**Frontend**
+
+<a href="#"><img src="https://skillicons.dev/icons?i=ts,js,react,html,css" alt="TypeScript, JavaScript, React, HTML, CSS" height="42"/></a>
+
+**Segurança & DevOps**
+
+<a href="#"><img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,githubactions,elasticsearch,linux" alt="Docker, Kubernetes, Terraform, AWS, GitHub Actions, Elasticsearch, Linux" height="42"/></a>
+
+<sub>Também no arsenal de segurança: OWASP ZAP · Trivy · Semgrep · Falco · Checkov</sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luskation&layout=compact&hide_border=true&langs_count=8&theme=dark&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9">
