@@ -18,8 +18,6 @@ Acredito que o melhor jeito de aprender é construindo em ambiente real: já col
 | [**k8s-hardening-iac**](https://github.com/luskation/k8s-hardening-iac) | Cluster Kubernetes endurecido e provisionado com Terraform: RBAC, Pod Security Standards, Network Policies, detecção em runtime com Falco e validação contínua com Trivy e Checkov | Terraform · Kubernetes · GitHub Actions |
 | [**clockin-golang-react**](https://github.com/luskation/clockin-golang-react) | API REST de ponto eletrônico com autenticação JWT, controle de acesso por papéis (RBAC) e arquitetura limpa em camadas | Go · React · PostgreSQL |
 
-Mais projetos — de pipeline DevSecOps na AWS a plugin de áudio em C++ — nos [repositórios](https://github.com/luskation?tab=repositories).
-
 ## 🎯 No momento
 
 - Aprofundando em **desenvolvimento web com segurança**: levar as práticas dos meus projetos de segurança para dentro do ciclo de desenvolvimento das aplicações que construo
