@@ -2,7 +2,7 @@
 
 **Desenvolvedor de Software · Segurança de Aplicações**
 
-Tenho 19 anos e curso Sistemas de Informação na UFLA. Construo aplicações web completas — do código ao deploy — com segurança integrada ao processo desde a primeira linha, não como um adendo no final.
+Tenho 20 anos e curso Sistemas de Informação na UFLA. Construo aplicações web completas — do código ao deploy — com segurança integrada ao processo desde a primeira linha, não como um adendo no final.
 
 Acredito que o melhor jeito de aprender é construindo em ambiente real: já coloquei um honeypot para capturar ataques de verdade, endureci um cluster Kubernetes com infraestrutura como código e montei pipelines que barram vulnerabilidades antes do merge.
 
